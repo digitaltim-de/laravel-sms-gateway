@@ -199,3 +199,5 @@ You can contribute with this module suggesting improvements, making tests and re
 ## ERRORS 
 
 Report errors opening [Issues](https://github.com/iyngaran/laravel-sms-gateway/issues).
+
+## This Project is forked because it was not impossible to set dynamicly a sender
